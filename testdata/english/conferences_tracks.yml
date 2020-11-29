@@ -1,0 +1,12 @@
+- id: '1'
+  cid: '1'
+  title: Physics
+  summary: ''
+- id: '2'
+  cid: '1'
+  title: Chemistry
+  summary: ''
+- id: '3'
+  cid: '1'
+  title: Education
+  summary: ''

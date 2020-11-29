@@ -1,0 +1,12 @@
+- stid: '1'
+  name: Presentation
+  color: '#ff0000'
+  plenary: '0'
+- stid: '2'
+  name: Panel
+  color: '#0000ff'
+  plenary: '0'
+- stid: '3'
+  name: Tutorial
+  color: '#ffff00'
+  plenary: '0'

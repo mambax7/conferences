@@ -1,0 +1,12 @@
+- sid: '1'
+  cid: '1'
+  title: 'Hotels Nearby'
+  summary: '<p>We have following hotels in our area:</p><ul><li>Westin</li><li>Marriott</li><li>Holiday Inn</li></ul>'
+- sid: '2'
+  cid: '1'
+  title: Restaurants
+  summary: ''
+- sid: '3'
+  cid: '1'
+  title: Transportation
+  summary: ''
