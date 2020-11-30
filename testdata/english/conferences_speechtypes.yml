@@ -1,12 +1,18 @@
-- id: '1'
-  name: Presentation
-  color: '#ff0000'
-  plenary: '0'
-- id: '2'
-  name: Panel
-  color: '#0000ff'
-  plenary: '0'
-- id: '3'
-  name: Tutorial
-  color: '#ffff00'
-  plenary: '0'
+-
+    id: '1'
+    name: Presentation
+    color: '#ff0000'
+    plenary: '0'
+    logo: blank.png
+-
+    id: '2'
+    name: Panel
+    color: '#0000ff'
+    plenary: '0'
+    logo: blank.png
+-
+    id: '3'
+    name: Tutorial
+    color: '#ffff00'
+    plenary: '0'
+    logo: blank.png

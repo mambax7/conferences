@@ -1,12 +1,18 @@
-- id: '1'
-  cid: '1'
-  title: 'Hotels Nearby'
-  summary: '<p>We have following hotels in our area:</p><ul><li>Westin</li><li>Marriott</li><li>Holiday Inn</li></ul>'
-- id: '2'
-  cid: '1'
-  title: Restaurants
-  summary: ''
-- id: '3'
-  cid: '1'
-  title: Transportation
-  summary: ''
+-
+    id: '1'
+    cid: '1'
+    title: 'Hotels Nearby'
+    summary: '<p>We have following hotels in our area:</p><ul><li>Westin</li><li>Marriott</li><li>Holiday Inn</li></ul>'
+    image: blank.png
+-
+    id: '2'
+    cid: '1'
+    title: Restaurants
+    summary: ''
+    image: blank.png
+-
+    id: '3'
+    cid: '1'
+    title: Transportation
+    summary: ''
+    image: blank.png

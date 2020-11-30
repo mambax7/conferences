@@ -1,8 +1,10 @@
-- id: '1'
-  title: 'STEM Conference'
-  subtitle: 'The best of new tech development from around the world'
-  subsubtitle: 'A conference you cannot miss!'
-  sdate: '1608192790'
-  edate: '1609315990'
-  summary: '<p>Welcome to the 2020 STEM World Conference, presenting the best of new tech development from around the world</p>'
-  isdefault: '1'
+-
+    id: '1'
+    title: 'STEM Conference'
+    subtitle: 'The best of new tech development from around the world'
+    subsubtitle: 'A conference you cannot miss!'
+    sdate: '1606694690'
+    edate: '1606694690'
+    summary: '<p>Welcome to the <span style="color: #ff0000;"><strong>2021 STEM World Conference</strong></span>, presenting the best of new tech development from around the world</p>'
+    isdefault: '1'
+    logo: blank.png
